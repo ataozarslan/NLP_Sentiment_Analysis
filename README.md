@@ -1,6 +1,6 @@
 # An NLP Sentiment Analysis using Restaurant Reviews
 
-This repository includes a web scraping application, EDA analysis and regression solution for the house prices in Istanbul, Kadıköy.
+This repository includes an NLP Project about analyzing the restaurant reviews obtained from Yelp.
 
 ## Introduction
 
@@ -20,14 +20,14 @@ This repository includes a web scraping application, EDA analysis and regression
 
 **Webpage:** https://www.yelp.com/dataset
 
-![YELP_LOGO](Images/ZingatLogo.jpg)
+![YELP_LOGO](Images/yelp_dataset.png)
 
 
 ## Methodology
 
 - The Python NLP libraries, and data storages for MongoDB.
 
-![WEB_SCRAPING](Images/WebScraping_Features.png)
+![MONGODB](Images/mongodb.png)
 
 - Performing various editing and cleaning operations on the data.
 
@@ -40,14 +40,14 @@ This repository includes a web scraping application, EDA analysis and regression
 ### Results for Positive Sentiment
 - In 2007, customers especially paid attention to the taste of the foods for positive voting.
 - But in 2017, customers especially paid attention to the quality of customer services for positive voting.
-![POSITIVE_SENTIMENT](Graphs/05_CorrelationMatrixofHouseFeatures.png)
+![POSITIVE_SENTIMENT](Images/positive_sentiment.png)
 
 ### Results for Negative Sentiment
 - In 2007, customers especially paid attention to having non-smoking rooms and service time for negative voting.
 - But in 2017, customers especially paid attention again to the quality of customer services for negative voting.
-![NEGATIVE_SENTIMENT](Graphs/05_CorrelationMatrixofHouseFeatures.png)
+![NEGATIVE_SENTIMENT](Images/negative_sentiment.png)
 
 ### Results for Neutral Sentiment
 - For the neutral sentiment, compared to the previous 2 sentiments, clear results were not found.
 - It contains both positive and negative reviews.
-![NEUTRAL_SENTIMENT](Graphs/05_CorrelationMatrixofHouseFeatures.png)
+![NEUTRAL_SENTIMENT](Images/neutral_sentiment.png)
