@@ -29,6 +29,10 @@ This repository includes an NLP Project about analyzing the restaurant reviews o
 
 ![MONGODB](Images/mongodb.png)
 
+- The dataset used includes only the English language comments in 2007 and 2017.
+
+![DATASET](Images/dataset.png)
+
 - Performing various editing and cleaning operations on the data.
 
 - Performing exploratory data analysis on the cleaned data.
