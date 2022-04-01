@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis using Restaurant Reviews
+# An NLP Sentiment Analysis using Restaurant Reviews
 
 This repository includes a web scraping application, EDA analysis and regression solution for the house prices in Istanbul, Kadıköy.
 
